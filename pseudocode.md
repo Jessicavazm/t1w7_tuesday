@@ -1,6 +1,6 @@
 # Pseudocode
 - Plain language description of the steps in an algorithm or a program.
-- Bridge between between the program's logic and the actual code.
+- Bridge between the program's logic and the actual code.
 
 ## Importance
 - Helps to understand and plan the program logic, so it's easier to code.
