@@ -1,11 +1,11 @@
 # Flowchart
 - Diagram that represents a process or an algorithm.
 - Has various boxes with different meanings connected to define a logic.
-- Importance: To visualize the the flow of the program for easier understanding and debugging.
+- Importance: To visualize the flow of the program for easier understanding and debugging.
 
 ## Flowchart symbols
-- Oval: Start/End
-- Rectangle: Process/step
+- Oval: Start/ End
+- Rectangle: Process/ step
 - Diamond: Decision point (usually where you have IF's)
 - Parallelogram: Input/ Output
 - Arrow: Flow
